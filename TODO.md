@@ -1,0 +1,4 @@
+- [x] Add image field to testimonials array in components/home/testimonials.tsx
+- [x] Import Image from next/image
+- [x] Replace gradient background in left div with Image component displaying current testimonial image
+- [x] Test the changes by running the development server
