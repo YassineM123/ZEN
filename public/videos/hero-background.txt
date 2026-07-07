@@ -1,0 +1,15 @@
+This is a placeholder for the hero background video.
+Please replace this file with your actual video file:
+public/videos/hero-background.mp4
+
+Recommended video specifications:
+- Format: MP4 (H.264)
+- Resolution: 1920x1080 or higher
+- Duration: 10-30 seconds (looping)
+- File size: < 10MB for web performance
+- Aspect ratio: 16:9
+
+You can use free stock videos from:
+- Pexels.com
+- Pixabay.com
+- Coverr.co

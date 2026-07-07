@@ -1,0 +1,31 @@
+{
+  "name": "ZEN Groupe France",
+  "short_name": "ZEN",
+  "description": "ZEN Groupe France: agence marketing digital BTP et immobilier.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b0c",
+  "theme_color": "#0b0b0c",
+  "icons": [
+    {
+      "src": "/favicon-32x32.png?v=2",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/favicon-16x16.png?v=2",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/apple-touch-icon.png?v=2",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "/zen-fallback-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}

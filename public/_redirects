@@ -1,0 +1,9 @@
+# Netlify redirects configuration for Next.js
+# This file ensures proper routing for Next.js on Netlify
+
+# Dynamic routes and API routes are handled by the Next.js runtime
+# Static files in /public are served directly
+# For any other 404s, fall back to index for client-side routing
+
+# SPA catch-all - redirect all unmatched requests to index for client-side routing
+/*  /index.html  200
